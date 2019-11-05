@@ -1,4 +1,6 @@
 import math
 
-math.atan(30)
+value = math.atan(30)
+
+print(value)
 

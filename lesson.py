@@ -2,5 +2,5 @@ import math
 
 value = math.atan(30)
 
-print(value)
+print('tan(3) = ',value)
 

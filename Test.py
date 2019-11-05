@@ -1,5 +1,5 @@
+"""说明这是一个测试python代码"""
 def fib(max):
-    'add genarat'
     n,a,b = 0,0,1
     while n < max:
         yield b
